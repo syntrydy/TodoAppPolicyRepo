@@ -1,0 +1,6 @@
+@id("Allow access to all")
+permit (
+  principal,
+  action,
+  resource
+);
